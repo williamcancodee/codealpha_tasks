@@ -1,0 +1,1 @@
+# Task 2: Basic Chatbot\n\nThis folder contains a simple rule-based chatbot implementation.\n\n## Usage\n\n```bash\npython task2_chatbot.py\n```\n\nType greeting/inquiry phrases such as `hello`, `how are you`, `what is your name`, `thank you`, or `bye`/`exit` to finish.\n
